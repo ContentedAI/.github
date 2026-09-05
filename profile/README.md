@@ -52,9 +52,10 @@ education, HR and recruitment, plus design and creative agencies.
 
 ## About this organisation
 
-Contented's source code lives in GitLab. This GitHub organisation exists
-for tooling and integrations that expect a GitHub home, so the product
-repositories are not here.
+Contented's source code lives in
+[GitLab](https://gitlab.com/development9650648). This GitHub
+organisation exists for tooling and integrations that expect a GitHub
+home, so the product repositories are not here.
 
 ## Find us
 
